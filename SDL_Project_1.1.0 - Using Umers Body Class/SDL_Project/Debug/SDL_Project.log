@@ -1,0 +1,28 @@
+﻿cl : Command line warning D9025: overriding '/std:c++17' with '/std:c++latest'
+  UI2.cpp
+c:\users\lenovo\desktop\sdl_project_1.1.0 - using umers body class\sdl_project\ui2.cpp(29): warning C4838: conversion from 'float' to 'int' requires a narrowing conversion
+c:\users\lenovo\desktop\sdl_project_1.1.0 - using umers body class\sdl_project\ui2.cpp(29): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+  UI1.cpp
+c:\users\lenovo\desktop\sdl_project_1.1.0 - using umers body class\sdl_project\ui1.cpp(70): warning C4838: conversion from 'float' to 'int' requires a narrowing conversion
+c:\users\lenovo\desktop\sdl_project_1.1.0 - using umers body class\sdl_project\ui1.cpp(70): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+c:\users\lenovo\desktop\sdl_project_1.1.0 - using umers body class\sdl_project\ui1.cpp(73): warning C4838: conversion from 'float' to 'int' requires a narrowing conversion
+c:\users\lenovo\desktop\sdl_project_1.1.0 - using umers body class\sdl_project\ui1.cpp(73): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+  GameManager.cpp
+c:\users\lenovo\desktop\sdl_project_1.1.0 - using umers body class\sdl_project\assignment1.h(9): warning C4005: 'NUM_BODIES': macro redefinition
+  c:\users\lenovo\desktop\sdl_project_1.1.0 - using umers body class\sdl_project\ui1.h(7): note: see previous definition of 'NUM_BODIES'
+c:\users\lenovo\desktop\sdl_project_1.1.0 - using umers body class\sdl_project\assignment2.h(9): warning C4005: 'NUM_BODIES': macro redefinition
+  c:\users\lenovo\desktop\sdl_project_1.1.0 - using umers body class\sdl_project\assignment1.h(9): note: see previous definition of 'NUM_BODIES'
+c:\users\lenovo\desktop\sdl_project_1.1.0 - using umers body class\sdl_project\assignment3.h(3): warning C4005: 'NUM_BODIES': macro redefinition
+  c:\users\lenovo\desktop\sdl_project_1.1.0 - using umers body class\sdl_project\assignment2.h(9): note: see previous definition of 'NUM_BODIES'
+c:\users\lenovo\desktop\sdl_project_1.1.0 - using umers body class\sdl_project\ui2.h(6): warning C4005: 'NUM_BODIES': macro redefinition
+  c:\users\lenovo\desktop\sdl_project_1.1.0 - using umers body class\sdl_project\assignment3.h(3): note: see previous definition of 'NUM_BODIES'
+  Assignment1.cpp
+c:\users\lenovo\desktop\sdl_project_1.1.0 - using umers body class\sdl_project\assignment1.cpp(9): warning C4244: '=': conversion from 'float' to 'long', possible loss of data
+c:\users\lenovo\desktop\sdl_project_1.1.0 - using umers body class\sdl_project\assignment1.cpp(89): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+c:\users\lenovo\desktop\sdl_project_1.1.0 - using umers body class\sdl_project\assignment1.cpp(90): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+  Generating Code...
+  Compiling...
+  Main.cpp
+  Generating Code...
+  SDL_Project.vcxproj -> C:\Users\Lenovo\Desktop\SDL_Project_1.1.0 - Using Umers Body Class\Debug\SDL_Project.exe
+  SDL_Project.vcxproj -> C:\Users\Lenovo\Desktop\SDL_Project_1.1.0 - Using Umers Body Class\Debug\SDL_Project.pdb (Partial PDB)

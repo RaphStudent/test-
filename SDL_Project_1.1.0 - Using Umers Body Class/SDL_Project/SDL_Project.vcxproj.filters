@@ -1,0 +1,132 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hh;hpp;hxx;hm;inl;inc;xsd</Extensions>
+    </Filter>
+    <Filter Include="Resource Files">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
+    </Filter>
+    <Filter Include="Source Files\Old Assignments">
+      <UniqueIdentifier>{fc5e7f7c-7655-49d7-a6e2-7cad03552411}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files\Old Assignments">
+      <UniqueIdentifier>{425273eb-437f-4af6-9507-b9f6e08a18fe}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files\Physics">
+      <UniqueIdentifier>{9d371006-39af-45ca-9d41-1d84cb619c62}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Physics">
+      <UniqueIdentifier>{5faee2e8-8dce-44d3-afe6-0ea34bb89949}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\UI_Assisgnment">
+      <UniqueIdentifier>{072352bb-dec3-4905-8d32-d3229d0316e7}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files\UI_Assignment">
+      <UniqueIdentifier>{6721148c-225d-4b0b-a3d7-dcf956a03849}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\SDL_Stuff">
+      <UniqueIdentifier>{607eecbb-b2a6-4fe9-b682-2423ccbedc2e}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files\SDL_Stuff">
+      <UniqueIdentifier>{6543799d-7c43-4b0e-bb77-816d9678cfa3}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="Main.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="MMath.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Assignment1.cpp">
+      <Filter>Source Files\Old Assignments</Filter>
+    </ClCompile>
+    <ClCompile Include="Assignment2.cpp">
+      <Filter>Source Files\Old Assignments</Filter>
+    </ClCompile>
+    <ClCompile Include="Assignment3.cpp">
+      <Filter>Source Files\Old Assignments</Filter>
+    </ClCompile>
+    <ClCompile Include="VMath.cpp">
+      <Filter>Source Files\Physics</Filter>
+    </ClCompile>
+    <ClCompile Include="UI1.cpp">
+      <Filter>Source Files\UI_Assisgnment</Filter>
+    </ClCompile>
+    <ClCompile Include="Window.cpp">
+      <Filter>Source Files\SDL_Stuff</Filter>
+    </ClCompile>
+    <ClCompile Include="Timer.cpp">
+      <Filter>Source Files\SDL_Stuff</Filter>
+    </ClCompile>
+    <ClCompile Include="Collider.cpp">
+      <Filter>Source Files\Physics</Filter>
+    </ClCompile>
+    <ClCompile Include="Body.cpp">
+      <Filter>Source Files\Physics</Filter>
+    </ClCompile>
+    <ClCompile Include="GameManager.cpp">
+      <Filter>Source Files\Old Assignments</Filter>
+    </ClCompile>
+    <ClCompile Include="UI2.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="Matrix.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="MMath.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Assignment1.h">
+      <Filter>Header Files\Old Assignments</Filter>
+    </ClInclude>
+    <ClInclude Include="Assignment2.h">
+      <Filter>Header Files\Old Assignments</Filter>
+    </ClInclude>
+    <ClInclude Include="Assignment3.h">
+      <Filter>Header Files\Old Assignments</Filter>
+    </ClInclude>
+    <ClInclude Include="Body.h">
+      <Filter>Header Files\Physics</Filter>
+    </ClInclude>
+    <ClInclude Include="Collider.h">
+      <Filter>Header Files\Physics</Filter>
+    </ClInclude>
+    <ClInclude Include="Vector.h">
+      <Filter>Header Files\Physics</Filter>
+    </ClInclude>
+    <ClInclude Include="VMath.h">
+      <Filter>Header Files\Physics</Filter>
+    </ClInclude>
+    <ClInclude Include="UI1.h">
+      <Filter>Header Files\UI_Assignment</Filter>
+    </ClInclude>
+    <ClInclude Include="Window.h">
+      <Filter>Header Files\SDL_Stuff</Filter>
+    </ClInclude>
+    <ClInclude Include="Scene.h">
+      <Filter>Header Files\SDL_Stuff</Filter>
+    </ClInclude>
+    <ClInclude Include="Timer.h">
+      <Filter>Header Files\SDL_Stuff</Filter>
+    </ClInclude>
+    <ClInclude Include="UIBase.h">
+      <Filter>Header Files\UI_Assignment</Filter>
+    </ClInclude>
+    <ClInclude Include="GameManager.h">
+      <Filter>Header Files\Old Assignments</Filter>
+    </ClInclude>
+    <ClInclude Include="UI2.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>
